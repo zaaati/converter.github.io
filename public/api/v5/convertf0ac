@@ -1,0 +1,1 @@
+/**/ typeof sampleCallback === 'function' && sampleCallback({"USD_PHP":{"val":53.220001}});

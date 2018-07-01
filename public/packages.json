@@ -1,0 +1,15 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "transpiling ES6 code to ES5 code with Babel.",
+  "main": "",
+  "scripts": {
+    "build": "babel ES6 -d ES5"
+  },
+  "author": "bALOGUN bABATUNDE",
+  "license": "ALC",
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0"
+  }
+}
